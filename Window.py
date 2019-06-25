@@ -1,6 +1,6 @@
 from tkinter import *
 window=Tk()
-window.title("my new app")
+window.title("Good Morning")
 window.geometry("500x500")
 window.minsize(200,200)
 window.config(background="#2F97ED")
