@@ -1,7 +1,10 @@
 from tkinter import *
 window=Tk()
 window.title("my new app")
-window.minsize(200,200)
 window.geometry("500x500")
-window.config(bg="#2F97ED")
+window.minsize(200,200)
+window.config(background="yellow")
+label_title=Label(window,text="my name is khaled mrad",font=("Oxygen",40),
+                  bg="red",fg="blue")
+label_title.pack(expand=YES)
 window.mainloop()
