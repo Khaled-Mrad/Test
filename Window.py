@@ -18,7 +18,7 @@ label_title=Label(frame,text="Python is WWOOWW",font=("Oxygen",40),
 label_title.pack()
 #new text
 
-label_text=Label(frame,text="my naem  is khaled maf",font=("Oxygen",25),
+label_text=Label(frame,text="MATH",font=("Oxygen",25),
                   bg="white",fg="blue")
 label_text.pack()
 
